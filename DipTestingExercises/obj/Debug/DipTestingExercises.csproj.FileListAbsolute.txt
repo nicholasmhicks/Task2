@@ -1,0 +1,12 @@
+H:\DipTestingExercises\DipTestingExercises\bin\Debug\DipTestingExercises.exe.config
+H:\DipTestingExercises\DipTestingExercises\bin\Debug\DipTestingExercises.exe
+H:\DipTestingExercises\DipTestingExercises\bin\Debug\DipTestingExercises.pdb
+H:\DipTestingExercises\DipTestingExercises\obj\Debug\DipTestingExercises.csprojResolveAssemblyReference.cache
+H:\DipTestingExercises\DipTestingExercises\obj\Debug\DipTestingExercises.exe
+H:\DipTestingExercises\DipTestingExercises\obj\Debug\DipTestingExercises.pdb
+C:\Users\tim\Desktop\DipTestingExercises\DipTestingExercises\bin\Debug\DipTestingExercises.exe.config
+C:\Users\tim\Desktop\DipTestingExercises\DipTestingExercises\bin\Debug\DipTestingExercises.exe
+C:\Users\tim\Desktop\DipTestingExercises\DipTestingExercises\bin\Debug\DipTestingExercises.pdb
+C:\Users\tim\Desktop\DipTestingExercises\DipTestingExercises\obj\Debug\DipTestingExercises.csprojResolveAssemblyReference.cache
+C:\Users\tim\Desktop\DipTestingExercises\DipTestingExercises\obj\Debug\DipTestingExercises.exe
+C:\Users\tim\Desktop\DipTestingExercises\DipTestingExercises\obj\Debug\DipTestingExercises.pdb
