@@ -9,7 +9,7 @@ namespace DipTestingExercises
     interface IVehicle
     {
         void travel(int pKMTavelled);
-        void refuel();
+        void refuel(int pLitres);
 
         int getFuelRemaining();
     }

@@ -18,7 +18,14 @@ namespace DipTestingExercises
 
         public void embarkPassenger(IPerson pPassenger)
         {
-            passengers.Add(pPassenger);
+            if (passengers.Count < maxPassengers)
+            {
+                passengers.Add(pPassenger);
+            }
+            else
+            {
+                throw new Exception("Bus is Already Full!");
+            }
         }
 
         public int getPassengerCount()
