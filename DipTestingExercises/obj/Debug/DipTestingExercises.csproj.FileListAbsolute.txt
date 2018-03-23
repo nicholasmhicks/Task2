@@ -25,3 +25,10 @@ C:\Users\tbaird\Source\Repos\DipUnitTestEx\DipTestingExercises\bin\Debug\DipTest
 C:\Users\tbaird\Source\Repos\DipUnitTestEx\DipTestingExercises\bin\Debug\DipTestingExercises.pdb
 C:\Users\tbaird\Source\Repos\DipUnitTestEx\DipTestingExercises\bin\Debug\nunit.framework.dll
 C:\Users\tbaird\Source\Repos\DipUnitTestEx\DipTestingExercises\bin\Debug\nunit.framework.xml
+C:\Users\STUDENT\Source\Repos\DipSWDTestExercise\DipTestingExercises\bin\Debug\DipTestingExercises.exe.config
+C:\Users\STUDENT\Source\Repos\DipSWDTestExercise\DipTestingExercises\bin\Debug\DipTestingExercises.exe
+C:\Users\STUDENT\Source\Repos\DipSWDTestExercise\DipTestingExercises\bin\Debug\DipTestingExercises.pdb
+C:\Users\STUDENT\Source\Repos\DipSWDTestExercise\DipTestingExercises\obj\Debug\DipTestingExercises.csprojResolveAssemblyReference.cache
+C:\Users\STUDENT\Source\Repos\DipSWDTestExercise\DipTestingExercises\obj\Debug\DipTestingExercises.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Source\Repos\DipSWDTestExercise\DipTestingExercises\obj\Debug\DipTestingExercises.exe
+C:\Users\STUDENT\Source\Repos\DipSWDTestExercise\DipTestingExercises\obj\Debug\DipTestingExercises.pdb

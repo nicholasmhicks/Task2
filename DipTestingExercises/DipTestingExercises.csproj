@@ -49,6 +49,8 @@
     <Compile Include="Driver.cs" />
     <Compile Include="IPerson.cs" />
     <Compile Include="IVehicle.cs" />
+    <Compile Include="Mocking\MockPerson.cs" />
+    <Compile Include="Mocking\MockVehicle.cs" />
     <Compile Include="MotorVehicle.cs" />
     <Compile Include="Passenger.cs" />
     <Compile Include="Person.cs" />
@@ -58,9 +60,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Mocking\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
