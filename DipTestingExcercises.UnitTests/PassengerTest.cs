@@ -5,7 +5,17 @@ using DipTestingExercises.Mocking;
 
 namespace DipTestingExcercises.UnitTests
 {
+
     [TestFixture]
+    public class SuccessTests
+    {
+        [Test]
+        [Ignore("Ignore a test")]
+        public void IgnoredTest()
+        {
+        }
+    }
+        [TestFixture]
     public class PassengerTest
     {
         Passenger _passenger;

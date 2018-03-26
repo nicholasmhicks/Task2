@@ -22,3 +22,4 @@ C:\Users\STUDENT\Source\Repos\DipSWDTestExercise\DipTestingExcercises.UnitTests\
 C:\Users\STUDENT\Source\Repos\DipSWDTestExercise\DipTestingExcercises.UnitTests\bin\Debug\nunit.framework.xml
 C:\Users\STUDENT\Source\Repos\DipSWDTestExercise\DipTestingExcercises.UnitTests\obj\Debug\DipTestingExcercises.UnitTests.dll
 C:\Users\STUDENT\Source\Repos\DipSWDTestExercise\DipTestingExcercises.UnitTests\obj\Debug\DipTestingExcercises.UnitTests.pdb
+C:\Users\STUDENT\Source\Repos\DipSWDTestExercise\DipTestingExcercises.UnitTests\obj\Debug\DipTestingExcercises.UnitTests.csproj.CopyComplete
